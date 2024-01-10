@@ -1,0 +1,64 @@
+.main-home {
+    background-color: aqua;
+    
+}
+
+.main-home div {
+    margin: 10px ;
+}
+.main-home div article {
+    background-color: white;
+}
+.main-home div article  img{
+    width: 100%
+}
+.main-home div article p {
+    width: 100%;
+}
+.main-home .section-tuto {
+margin: 10px;
+}
+.main-home .section-tuto h2{
+    background-color: white;
+    width: 100%;
+}
+.main-home .section-tuto{
+
+}
+.main-home  .section-tuto article{
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    margin-top: 10px;
+background-color: white;
+}
+
+
+.main-home article h3 {
+
+}
+    
+.main-home .section-tuto article img{
+  height: 60px;
+  margin: 7px;
+}
+
+.main-home .section-publi{
+    
+}
+.main-home .section-publi h2{
+    background-color: white;
+    margin: 10px;
+}
+
+
+.main-home .section-publi div{
+    background-color: white;
+
+}
+
+
+.main-home .section-publi div img {
+padding: 10px;
+    width: 100%;
+}

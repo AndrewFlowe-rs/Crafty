@@ -1,0 +1,26 @@
+.header-home{
+background-color: var(--color-header);
+height: 55px;
+
+}
+.header-home  img{
+    margin : 10px 0 0 18px ;
+
+position: relative;
+
+}
+
+.header-home  div {
+    border: solid 2px white;
+    border-radius: 5px;
+    display: inline-block;
+    margin-left: 46vw;
+    position: absolute;
+    top: 12px;
+}
+
+.header-home  .burger-menu i {
+    color: white;
+    padding: 5px;
+
+}
