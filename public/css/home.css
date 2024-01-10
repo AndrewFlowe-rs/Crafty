@@ -1,6 +1,5 @@
 .main-home {
-    background-color: aqua;
-    
+    background-color: #bcf2ff;
 }
 
 .main-home div {
@@ -14,6 +13,7 @@
 }
 .main-home div article p {
     width: 100%;
+    font-size: var(--parrafos);
 }
 .main-home .section-tuto {
 margin: 10px;
@@ -30,12 +30,13 @@ margin: 10px;
     align-items: center;
     flex-direction: row-reverse;
     margin-top: 10px;
-background-color: white;
+    background-color: white;
+    justify-content: left;
 }
 
 
 .main-home article h3 {
-
+  font-size: var(--parrafos);
 }
     
 .main-home .section-tuto article img{
@@ -43,7 +44,8 @@ background-color: white;
   margin: 7px;
 }
 
-.main-home .section-publi{
+.main-home .section-publi {
+    
     
 }
 .main-home .section-publi h2{
@@ -54,11 +56,16 @@ background-color: white;
 
 .main-home .section-publi div{
     background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
 
 
 .main-home .section-publi div img {
-padding: 10px;
-    width: 100%;
+    padding: 10px;
+    width: 95%;
+    height: 95%;
+
 }

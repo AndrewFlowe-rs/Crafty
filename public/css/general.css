@@ -1,7 +1,17 @@
 :root {
     --color-header : #ff4500 ;
+
+
+
+
+    --fuente : font-family:
+    'Oswald', sans-serif;
+
+    --parrafos: 12px;
 }
+
 *{
     margin: 0px;
+    font-family: var(--fuente);
 }
 
